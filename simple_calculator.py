@@ -15,3 +15,6 @@ if streamlit.button("Calculate"):
         streamlit.write("Result: ", num1 * num2)
     elif operation == "/":
         streamlit.write("Result: ", num1 / num2)
+
+streamlit.write("Happy Wednesday.")
+streamlit.write("Happy Wednesday morning.")
